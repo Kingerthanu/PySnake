@@ -9,7 +9,7 @@ pygame.init()
 squareSize = 45
 LASTSPOT = tuple()
 moveEvent = pygame.USEREVENT+1
-pygame.time.set_timer(moveEvent, 100)
+pygame.time.set_timer(moveEvent, 50)
 DIRECTION = "D"
 listOfBerries = []
 class Strawberry:
@@ -88,13 +88,13 @@ listOfBerries.append(STRAWBERRY_ENTITY)
 while True:
     for event in pygame.event.get():
         if event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_UP:
+            if event.key == pygame.K_UP and DIRECTION != "D":
                 DIRECTION = "U"
-            elif event.key == pygame.K_DOWN:
+            elif event.key == pygame.K_DOWN and DIRECTION != "U":
                 DIRECTION = "D"
-            elif event.key == pygame.K_RIGHT:
+            elif event.key == pygame.K_RIGHT and DIRECTION != "L":
                 DIRECTION = "R"
-            elif event.key == pygame.K_LEFT:
+            elif event.key == pygame.K_LEFT and DIRECTION != "R":
                 DIRECTION = "L"
         elif event.type == pygame.QUIT:
             pygame.quit()
