@@ -1,5 +1,6 @@
 # PySnake
 A Pygame I made in which you use the arrow keys to move around and play a game of snake.
+
 <img src="https://github.com/Kingerthanu/PySnake/assets/76754592/e3aa5aee-0c99-4713-be39-ef15ab123d20" alt="Cornstarch <3" width="85" height="69">
 
 Was one of my first projects and helped me understand how inputs are handled as well as how to display on the screen to a user. It also taught me more about efficient coding practices and how to traverse through index to allow for batch checks on things like the snakes body as well as on berrys if more are implemented.
