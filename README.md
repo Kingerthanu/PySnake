@@ -31,3 +31,8 @@ The passage experienced a surge in popularity during the 1960s when Letraset use
 ![snake2](https://github.com/Kingerthanu/PySnake/assets/76754592/402688ec-eace-4372-a55e-71d72e02be00)
 ![snake1](https://github.com/Kingerthanu/PySnake/assets/76754592/9f30502f-ba1e-4f36-98aa-ecba9501bab3)
 ![snake3](https://github.com/Kingerthanu/PySnake/assets/76754592/23bdbfe7-44b1-4886-94f2-0bb8943f5a72)
+
+
+
+
+<img src="https://github.com/Kingerthanu/PySnake/assets/76754592/eff9e463-4a96-4857-aae3-2777329a30c1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/eff9e463-4a96-4857-aae3-2777329a30c1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/eff9e463-4a96-4857-aae3-2777329a30c1" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/eff9e463-4a96-4857-aae3-2777329a30c1" alt="Cornstarch <3" width="55" height="49">
