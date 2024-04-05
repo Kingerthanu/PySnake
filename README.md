@@ -10,6 +10,7 @@ Was one of my first projects and helped me understand how inputs are handled as 
 
 **The Breakdown:**
 
+<img src="https://github.com/Kingerthanu/PySnake/assets/76754592/33ccbeb3-1c54-4663-970b-8c60a32d1496" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/33ccbeb3-1c54-4663-970b-8c60a32d1496" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/33ccbeb3-1c54-4663-970b-8c60a32d1496" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/33ccbeb3-1c54-4663-970b-8c60a32d1496" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
 
