@@ -12,6 +12,10 @@ Was one of my first projects and helped me understand how inputs are handled as 
 
   This Program Works On Python And Its Pre-Packaged Pygame Window Generator.
 
+  Using The Library, We Declare A Snake Class Definition In Which Works To Have Associated Squares Which Represent The Snakes Body On The Screen. This Includes Our Draw Calls And Movement Functionality. We Also Have A Berry Class In Which Works To Only Have A Render Function.
+
+  In Our Main/Driver Function We Set Up A New Movement Event Every 50ms In Which Will Check Globals Like Our Selected Direction Of Motion To Draw/Move Our Snake. In Our Current Build Of This, We Only Have 1 Berry Spawned At A Time And When One Is Collected By The User, Another Is Randomly Spawned On The Map Plane.
+
 <img src="https://github.com/Kingerthanu/PySnake/assets/76754592/91450e81-0355-4a5a-9d6c-1077a7b7d07d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/91450e81-0355-4a5a-9d6c-1077a7b7d07d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/91450e81-0355-4a5a-9d6c-1077a7b7d07d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/91450e81-0355-4a5a-9d6c-1077a7b7d07d" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
