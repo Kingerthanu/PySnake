@@ -14,6 +14,8 @@ Was one of my first projects and helped me understand how inputs are handled as 
 
 ----------------------------------------------------------------------------
 
+<img src="https://github.com/Kingerthanu/PySnake/assets/76754592/861a459c-8d5f-4296-9e9c-14f96b1e5f19" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/861a459c-8d5f-4296-9e9c-14f96b1e5f19" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/861a459c-8d5f-4296-9e9c-14f96b1e5f19" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/PySnake/assets/76754592/861a459c-8d5f-4296-9e9c-14f96b1e5f19" alt="Cornstarch <3" width="55" height="49">
+
 **Features:**
 
 <img src="https://github.com/Kingerthanu/PySnake/assets/76754592/f040e085-a252-4ebd-81f6-d5c66cd23b52" alt="Cornstarch <3" width="115" height="99">
