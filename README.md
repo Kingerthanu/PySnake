@@ -1,4 +1,4 @@
-# PySnake
+# Python_PySnake
 A Pygame I made in which you use the arrow keys to move around and play a game of snake.
 
 Was one of my first projects and helped me understand how inputs are handled as well as how to display on the screen to a user. It also taught me more about efficient coding practices and how to traverse through index to allow for batch checks on things like the snakes body as well as on berrys if more are implemented.
